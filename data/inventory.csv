@@ -1,0 +1,11 @@
+id,name,category,price,quantity,reorderLevel,perishable,expiry
+1,Fresh Milk 1L,Dairy,7.5,24,10,1,2026-11-20
+2,White Bread,Bakery,3.9,4,8,1,2026-11-18
+3,Eggs (10 pack),Dairy,6.2,30,10,1,2026-12-05
+4,Basmati Rice 5kg,Grains,32.9,15,5,0,-
+5,Cooking Oil 2L,Pantry,18.5,12,5,0,-
+6,Yogurt Cup,Dairy,2.8,18,6,1,2026-11-10
+7,Mineral Water 1.5L,Drinks,1.8,60,20,0,-
+8,Instant Noodles,Pantry,1.2,3,15,0,-
+9,Bananas (1kg),Produce,4.5,20,8,1,2026-11-19
+10,Chicken Breast 500g,Meat,12.9,9,5,1,2026-12-30
